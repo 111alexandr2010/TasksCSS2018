@@ -1,0 +1,61 @@
+.form-sheet {
+    background-color: #FEEED6;
+    width: 615px;
+    height: 390px;
+    font-family: sans-serif;
+    color: #676565;
+    font-size: 12px;
+    line-height: 30px;
+    margin: 5px;
+}
+
+.header {
+    color: #676565;
+    font-family: sans-serif;
+    font-weight: 200;
+    text-align: left;
+    text-indent: 1em;
+    height: 15px;
+}
+
+.text-label {
+    font-weight: bolder;
+    height: 30px;
+    margin: 15px;
+    text-indent: 5px;
+}
+
+.text-user {
+    background-color: white;
+    font-weight: 100;
+    width: 580px;
+    height: 30px;
+    text-indent: 5px;
+    margin-left: 15px;
+}
+
+.text-button {
+    font-weight: 400;
+    margin-left: 15px;
+    margin-top: 0;
+}
+
+.button {
+    text-align: center;
+    vertical-align: middle;
+    box-sizing: content-box;
+    display: inline-block;
+    color: #FFFFFF;
+    width: 130px;
+    height: 23px;
+    background-color: #378DB2;
+    margin-left: 460px;
+}
+
+.text-area {
+    margin-left: 15px;
+    font-weight: 200;
+    overflow: auto;
+    margin-bottom: 0;
+    text-indent: 5px;
+}

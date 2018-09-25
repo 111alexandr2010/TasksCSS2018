@@ -1,0 +1,45 @@
+.sheet {
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #676565;
+    text-align: left;
+    text-indent: 1em;
+    border-bottom: 1px solid lightgray;
+}
+
+.cell-small {
+    min-width: 125px;
+    border-collapse: collapse;
+    border-bottom: 1px solid lightgray;
+    height: 37px;
+    text-align: left;
+    text-indent: 1em;
+}
+
+.cell-big {
+    min-width: 240px;
+    border-collapse: collapse;
+    border-bottom: 1px solid lightgray;
+    height: 37px;
+    text-indent: 1em;
+    text-align: left;
+}
+
+.header {
+    background: #3498DB;
+    border-bottom: 1px solid lightgray;
+    color: white;
+    height: 37px;
+    text-align: left;
+    text-indent: 1em;
+}
+
+.row-grey {
+    background: #EEEEEE;
+    border-bottom: 1px solid lightgray;
+ }
+
+.row-white {
+    background: #FFFFFF;
+    border-bottom: 1px solid lightgray;
+}

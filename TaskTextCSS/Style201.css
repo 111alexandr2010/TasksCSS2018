@@ -38,6 +38,10 @@
     line-height: 16px;
 }
 
+.price {
+    text-decoration: line-through;
+}
+
 
 
 

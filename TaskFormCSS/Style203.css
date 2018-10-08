@@ -1,3 +1,7 @@
+.my-form {
+    padding: 5px;
+}
+
 .form-sheet {
     background-color: #FEEED6;
     width: 615px;
@@ -15,25 +19,24 @@
     font-family: sans-serif;
     font-weight: 200;
     text-align: left;
-    text-indent: 1em;
     height: 15px;
+    text-indent: 1em;
 }
 
 .text-label {
     font-weight: bolder;
     height: 30px;
     margin: 15px;
-    text-indent: 5px;
 }
 
 .text-user {
     background-color: white;
     font-weight: 100;
-    width: 580px;
+    width: 95%;
     height: 30px;
-    text-indent: 5px;
     margin-left: 15px;
     border: 0;
+    text-indent: 1em;
 }
 
 .text-button {
@@ -54,13 +57,14 @@
     margin-bottom: 5px;
     font-weight: 600;
     border: 0;
-    padding-bottom: 4px;
+    padding-bottom: 3px;
 }
 
 .text-area {
     margin-left: 15px;
+    width: 95%;
     font-weight: 200;
     font-family: sans-serif;
-    text-indent: 5px;
     border: 0;
+    text-indent: 1em;
 }
